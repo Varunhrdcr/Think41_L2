@@ -93,5 +93,4 @@ Backend (docs): http://localhost:8000/docs
 
 
 ## 👨‍💻Author
-Bhavin Sharma
-GitHub: @bhavin234
+Varun Sharma
